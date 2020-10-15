@@ -1,6 +1,7 @@
 {
     "name": "genemu/form-bundle",
     "type": "symfony-bundle",
+    "version":"3.0.0",
     "description": "Extra form types for your Symfony2 projects",
     "keywords": ["form", "extra form"],
     "license": "MIT",
